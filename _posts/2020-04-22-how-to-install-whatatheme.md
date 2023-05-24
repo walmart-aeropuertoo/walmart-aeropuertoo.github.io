@@ -1,7 +1,7 @@
 ---
 title: Apartado de Fiesta
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
+post-image: https://img.ltwebstatic.com/images3_pi/2022/12/06/1670290476d99b26406d9c982f407159be362b17cb.webp
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
