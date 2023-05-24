@@ -1,7 +1,7 @@
 ---
 title: Jardineria
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.homedepot.com.mx%2Fclub-jardineria%2F15-consejos-de-jardineria-para-principiantes&psig=AOvVaw24dDO2lyiqFBjev_GEsw4P&ust=1684985260225000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCMqbKBjf8CFQAAAAAdAAAAABAP"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
